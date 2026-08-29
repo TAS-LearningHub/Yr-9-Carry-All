@@ -1,5 +1,7 @@
 # Barbecue Carry-All course contract
 
+> **Legacy 2026 course record:** This contract documents the previous NSW Industrial Technology Years 7–10 Syllabus (2019) and its `IND5-*` outcome codes. It is retained as historical 2026 evidence only, not as the site's current syllabus alignment. Current alignment uses the Industrial Technology 7–10 Syllabus (2025) and its `INT5-*` outcomes, as recorded in the current teacher resources and program.
+
 ## Course identity
 
 | Field | Authorised record |
@@ -31,9 +33,9 @@
 - Box-pin and dovetail joints are retained only as comparative knowledge. They are not the required assessed joints and must not be marked or cut on Carry-All project stock.
 - Local practical methods and all corrections remain teacher-controlled through SRC-04.
 
-## Exact Stage 5 outcomes
+## Legacy 2026 Stage 5 outcomes (previous syllabus)
 
-| Outcome | Authorised wording |
+| Legacy outcome | 2026 authorised wording |
 |---|---|
 | IND5-1 | identifies, assesses, applies and manages the risks and WHS issues associated with the use of a range of tools, equipment, materials, processes and technologies |
 | IND5-2 | applies design principles in the modification, development and production of projects |
@@ -46,11 +48,11 @@
 | IND5-9 | describes, analyses and uses a range of current, new and emerging technologies and their various applications |
 | IND5-10 | describes, analyses and evaluates the impact of technology on society, the environment and cultural issues locally and globally |
 
-## Learning and evidence mapping
+## Legacy 2026 learning and evidence mapping
 
 Every paired-week module contains three substantial theory sections, 12 knowledge checks, four scaffolded written responses, student details, browser autosave and Print / Save PDF evidence.
 
-| Module | Authorised learning focus | Primary outcomes | Folio evidence |
+| Module | 2026 authorised learning focus | Legacy 2026 outcomes | Folio evidence |
 |---|---|---|---|
 | Weeks 1–2 | Brief, working drawing and WHS | IND5-1, IND5-5 | Cards 1–3: brief, drawing and safety controls |
 | Weeks 3–4 | Materials, culture and responsible use | IND5-4, IND5-10 | Cards 2 and 4: cutting information, material decisions and respectful source use |
