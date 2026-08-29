@@ -273,52 +273,54 @@ window.WRITTEN_QUESTIONS = [
   },
   {
     "title": "2. Apply: Learning respectfully from Aboriginal and Torres Strait Islander timber technologies",
-    "prompt": "Explain the main principle in this section and apply it to one real decision, fault diagnosis or quality check in the Carry-All project.",
+    "prompt": "Using one teacher-approved, community-attributed source, investigate a First Nations tool used to work timber. Identify the Nation or community and Country, explain the material, action and purpose, then explain how ICIP changes what you may share or reproduce. Connect one respectful lesson to a Carry-All material decision without copying a cultural object or design.",
     "minWords": 75,
     "concepts": [
       {
-        "label": "section idea",
+        "label": "community and Country",
         "terms": [
-          "learning",
-          "respectfully",
-          "aboriginal",
-          "torres"
+          "nation",
+          "community",
+          "country",
+          "source"
         ]
       },
       {
-        "label": "Carry-All application",
+        "label": "tool and material knowledge",
         "terms": [
+          "tool",
+          "timber",
+          "wood",
+          "material",
+          "purpose"
+        ]
+      },
+      {
+        "label": "ICIP and respectful application",
+        "terms": [
+          "icip",
+          "permission",
+          "authority",
+          "respect",
           "carry-all",
-          "project",
-          "component",
-          "joint",
-          "stage"
-        ]
-      },
-      {
-        "label": "quality or evidence check",
-        "terms": [
-          "check",
-          "evidence",
-          "drawing",
-          "brief",
-          "approved",
-          "result"
+          "copy"
         ]
       }
     ],
     "scaffold": [
-      "The main principle is…",
-      "In the Carry-All project, this matters when…",
-      "I would check or prove the result by…"
+      "The teacher-approved source identifies…",
+      "The tool uses the material by…",
+      "ICIP matters because…",
+      "A respectful Carry-All connection is…"
     ],
     "prompts": [
-      "State the controlling idea from \"Learning respectfully from Aboriginal and Torres Strait Islander timber technologies\".",
-      "Apply the idea to a specific Carry-All stage or decision.",
-      "Finish with a clear quality or evidence check."
+      "Name the Nation or community and Country when the public source provides them.",
+      "Explain the tool action and material purpose without generalising to all First Nations peoples.",
+      "State what may be shared and what must not be copied.",
+      "Connect the learning to one responsible Carry-All material decision."
     ],
-    "model": "First Nations timber technologies must be understood as diverse, place-based knowledge systems connected to Country, purpose and custodianship. For my Carry-All, I would use one teacher-approved First Nations source and identify the specific community, place and material-use lesson it communicates.",
-    "clarification": "What is the key idea in Learning respectfully from Aboriginal and Torres Strait Islander timber technologies? How would you use it in a decision, fault check or quality check?"
+    "model": "I would use a teacher-approved public source that names the relevant Nation or community and Country. I would explain how the identified tool works timber, which materials are involved and the purpose described by that source, without suggesting the example represents every First Nations community. ICIP matters because cultural knowledge and designs remain connected to their custodians even when some information is public. I would cite the source, avoid copying a cultural object or restricted design, and connect the lesson to careful, low-waste use of the Carry-All timber.",
+    "clarification": "Which named community and public source describe the timber-working tool? What does it do, what ICIP limit applies, and what respectful material-use lesson connects to the Carry-All?"
   },
   {
     "title": "3. Apply: Using timber responsibly and reducing project waste",

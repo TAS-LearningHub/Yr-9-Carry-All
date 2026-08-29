@@ -136,16 +136,16 @@ window.MC_QUESTIONS = [
       "An unrelated internet image with no caption.",
       "A final photo that hides the relevant detail.",
       "A copied definition with no Carry-All example.",
-      "Include an annotated SWMS extract showing a dry-assembly hold point, its hazards, controls and teacher approval."
+      "Include a teacher-observed collaborative production record showing allocated roles, the component or test piece, a checked handover, each person's contribution and the response to any fault."
     ],
     "correct": 3,
     "hint": "Useful evidence should prove a real stage, decision or check in this Carry-All.",
-    "strongHint": "Look for evidence that records the actual Carry-All process: Include an annotated SWMS extract showing a dry-assembly hold point, its hazards, controls and teacher approval.",
+    "strongHint": "Look for evidence of real shared production, not only peer feedback: roles, component or test piece, checked handover, individual contribution and teacher observation.",
     "feedback": [
       "Unrelated images do not prove student work.",
       "A photograph must reveal the relevant detail.",
       "A definition alone does not show application.",
-      "Correct. Include an annotated SWMS extract showing a dry-assembly hold point, its hazards, controls and teacher approval."
+      "Correct. This record proves genuine collaborative production while keeping individual contribution visible."
     ]
   },
   {
@@ -273,52 +273,54 @@ window.WRITTEN_QUESTIONS = [
   },
   {
     "title": "2. Apply: Sequencing the Carry-All work in a useful SWMS",
-    "prompt": "Explain the main principle in this section and apply it to one real decision, fault diagnosis or quality check in the Carry-All project.",
+    "prompt": "Plan one teacher-authorised collaborative production activity for the Carry-All. Allocate roles, name the component, test piece, template or jig, identify the controlling drawing and safety requirements, describe the handover check, and state how each person's contribution and the teacher observation will be recorded.",
     "minWords": 75,
     "concepts": [
       {
-        "label": "section idea",
+        "label": "allocated roles",
         "terms": [
-          "sequencing",
-          "carry-all",
-          "useful",
-          "sequence"
+          "role",
+          "allocate",
+          "team",
+          "contribution"
         ]
       },
       {
-        "label": "Carry-All application",
+        "label": "production and handover",
         "terms": [
-          "carry-all",
-          "project",
           "component",
-          "joint",
-          "stage"
+          "test piece",
+          "template",
+          "jig",
+          "handover"
         ]
       },
       {
-        "label": "quality or evidence check",
+        "label": "authority and evidence",
         "terms": [
-          "check",
-          "evidence",
-          "drawing",
-          "brief",
+          "teacher",
           "approved",
-          "result"
+          "drawing",
+          "safety",
+          "observation",
+          "evidence"
         ]
       }
     ],
     "scaffold": [
-      "The main principle is…",
-      "In the Carry-All project, this matters when…",
-      "I would check or prove the result by…"
+      "The teacher-authorised shared task is…",
+      "The roles and individual responsibilities are…",
+      "At the handover, the next person will check…",
+      "The evidence and teacher observation will show…"
     ],
     "prompts": [
-      "State the controlling idea from \"Sequencing the Carry-All work in a useful SWMS\".",
-      "Apply the idea to a specific Carry-All stage or decision.",
-      "Finish with a clear quality or evidence check."
+      "Use a genuine production component or test, not peer review alone.",
+      "Keep all practical roles within teacher-approved induction and supervision.",
+      "Make the handover and quality criterion explicit.",
+      "Show both the shared result and each person's contribution."
     ],
-    "model": "Sequence work so every stage, hazard, control, dependency and approval is considered before practical action begins. For my Carry-All, I would divide the Carry-All build into ordered stages and add one clear hold point before each major commitment.",
-    "clarification": "What is the key idea in Sequencing the Carry-All work in a useful SWMS? How would you use it in a decision, fault check or quality check?"
+    "model": "With teacher approval, our team would produce a labelled test piece or template linked to the Carry-All drawing. One student would confirm the drawing and criteria, one would prepare and label the approved material, one would complete only the authorised operation, and one would check dimensions and condition before handover. We would record each role, the shared result, any fault and response, and each person's contribution. The teacher would confirm the activity, controls, supervision and observation before the work counted as collaborative production evidence.",
+    "clarification": "What real item will the team produce, who will do each authorised role, what will be checked at handover, and how will individual contribution be proven?"
   },
   {
     "title": "3. Apply: Preparing Carry-All surfaces for finish",

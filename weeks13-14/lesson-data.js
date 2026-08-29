@@ -224,52 +224,54 @@ window.MC_QUESTIONS = [
 window.WRITTEN_QUESTIONS = [
   {
     "title": "1. Apply: Choosing and using an adhesive for assembly",
-    "prompt": "Explain the main principle in this section and apply it to one real decision, fault diagnosis or quality check in the Carry-All project.",
-    "clarification": "What is the key idea in Choosing and using an adhesive for assembly? How would you use it in a decision, fault check or quality check?",
+    "prompt": "Compare two teacher-approved adhesive products using their current technical information and SDSs. Justify the best option for one Carry-All joint using strength, gap-filling limits, working time, shelf life, hazards, cost and the required assembly conditions.",
+    "clarification": "What does each approved product claim, what are its limits and hazards, and why is one the better evidence-based choice for the named Carry-All joint?",
     "minWords": 75,
     "concepts": [
       {
-        "label": "section idea",
+        "label": "product comparison",
         "terms": [
-          "choosing",
-          "adhesive",
-          "assembly",
-          "supports"
+          "strength",
+          "gap",
+          "working time",
+          "shelf life"
         ]
       },
       {
-        "label": "Carry-All application",
+        "label": "Carry-All joint and conditions",
         "terms": [
           "carry-all",
           "project",
-          "component",
           "joint",
-          "stage"
+          "pine",
+          "plywood",
+          "assembly"
         ]
       },
       {
-        "label": "quality or evidence check",
+        "label": "authority and controls",
         "terms": [
-          "check",
-          "evidence",
-          "drawing",
-          "brief",
+          "technical data",
+          "sds",
+          "hazard",
           "approved",
-          "result"
+          "teacher"
         ]
       }
     ],
     "scaffold": [
-      "The main principle is…",
-      "In the Carry-All project, this matters when…",
-      "I would check or prove the result by…"
+      "Product A is suitable or limited because…",
+      "Product B is suitable or limited because…",
+      "For the named Carry-All joint, I recommend…",
+      "The required controls and evidence are…"
     ],
     "prompts": [
-      "State the controlling idea from \"Choosing and using an adhesive for assembly\".",
-      "Apply the idea to a specific Carry-All stage or decision.",
-      "Finish with a clear quality or evidence check."
+      "Use current technical information rather than memory or advertising alone.",
+      "Compare strength, gap limits, working time and shelf life.",
+      "Include hazards, controls and assembly conditions.",
+      "Finish with a justified teacher-approved selection."
     ],
-    "model": "Adhesive supports close-fitting joints but cannot restore timber removed through inaccurate manufacture. For my Carry-All, I would read the approved adhesive label and SDS, then prepare the complete assembly sequence before application begins."
+    "model": "I would compare two teacher-approved products using their current technical data and SDSs. I would check whether each product suits pine and plywood, the strength required, whether the joint must be close fitting, any genuine gap-filling claim, working and curing time, shelf life, hazards, cost and clean-up. For an accurate close-fitting Carry-All joint I would select the product whose evidence best matches those conditions, not the one with the strongest advertising claim. I would record the selected product, controls, dry-fit result and assembly sequence, then obtain teacher approval before use."
   },
   {
     "title": "2. Apply: Clamping the Carry-All square and true",
@@ -321,17 +323,20 @@ window.WRITTEN_QUESTIONS = [
     "clarification": "What is the key idea in Clamping the Carry-All square and true? How would you use it in a decision, fault check or quality check?"
   },
   {
-    "title": "3. Apply: Maintaining tools and organising the workspace",
-    "prompt": "Explain the main principle in this section and apply it to one real decision, fault diagnosis or quality check in the Carry-All project.",
+    "title": "3. Map the tool range used in timber production",
+    "prompt": "Build a teacher-approved tool map for the Carry-All. Identify at least one appropriate tool or item of equipment for each relevant category: marking out, cutting, shaping or forming, machining, detailing, finishing and assembly. Explain the function, material suitability and one setup, maintenance or safety control for each; do not claim authority to use equipment you have not been approved to operate.",
     "minWords": 75,
     "concepts": [
       {
-        "label": "section idea",
+        "label": "tool categories",
         "terms": [
-          "maintaining",
-          "tools",
-          "organising",
-          "workspace"
+          "marking",
+          "cutting",
+          "shaping",
+          "machining",
+          "detailing",
+          "finishing",
+          "assembly"
         ]
       },
       {
@@ -357,17 +362,17 @@ window.WRITTEN_QUESTIONS = [
       }
     ],
     "scaffold": [
-      "The main principle is…",
-      "In the Carry-All project, this matters when…",
-      "I would check or prove the result by…"
+      "The tool categories required are…",
+      "For each category, the tool and function are…",
+      "The setup, maintenance or safety control is…"
     ],
     "prompts": [
-      "State the controlling idea from \"Maintaining tools and organising the workspace\".",
-      "Apply the idea to a specific Carry-All stage or decision.",
-      "Finish with a clear quality or evidence check."
+      "Cover the named categories rather than listing several tools with the same function.",
+      "Connect each tool to an actual Carry-All task and material.",
+      "State teacher approval and one relevant control."
     ],
-    "model": "Tool condition and workspace organisation directly affect safety, accuracy and the quality of the finished Carry-All. For my Carry-All, I would inspect the required tools and clear the work area before beginning the next Carry-All stage.",
-    "clarification": "What is the key idea in Maintaining tools and organising the workspace? How would you use it in a decision, fault check or quality check?"
+    "model": "A strong map distinguishes marking-out, cutting, shaping or forming, machining, detailing, finishing and assembly tools. Each example is tied to a genuine Carry-All task, explains its function and material suitability, and records the approved setup, maintenance or safety control without treating a named machine as permission to use it.",
+    "clarification": "Which tool category does each example belong to, what does it do in the Carry-All, and what approved control keeps its use safe and effective?"
   },
   {
     "title": "4. Connect the two-week module",
